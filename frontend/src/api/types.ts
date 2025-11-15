@@ -1,10 +1,13 @@
 export interface Task {
+  id: number;
   title: string;
   description?: string;
   priority: string;
   effort: number;
-  tags: string[];
+  tags?: string[];
   assignee?: string;
+  meeting_id?: number;
+  status: string;
 }
 
 export interface MeetingSummary {

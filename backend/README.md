@@ -7,7 +7,7 @@
     [x] Add live debugging so you can see API responses
     
 ## Database
-    [ ] Add SQLite persistence (store tasks, meetings, sprints)
+    [ ] Add SQLite persistence (store tasks, meetings, sprints) It is missign sprints
     
 ## Optional
     [ ] Merge Chatbot with meeting data (context-aware AI)
@@ -17,7 +17,5 @@
 
     [ ] Add developer workload + delegation
     [ ] Add audio transcription
-
-    
 
     

@@ -37,3 +37,28 @@ export async function chat(message: string) {
   });
   return await res.json();
 }
+
+export async function updateTask(taskId: number, payload: any) {
+  const res = await fetch(`${BASE_URL}/tasks/${taskId}`, {
+    method: "PUT",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(payload),
+  });
+  return await res.json();
+}
+
+export async function deleteTask(taskId: number) {
+  const res = await fetch(`${BASE_URL}/tasks/${taskId}`, {
+    method: "DELETE"
+  });
+  return await res.json();
+}
+
+export async function updateTaskStatus(taskId: number, status: string) {
+  const res = await fetch(`${BASE_URL}/tasks/${taskId}/status`, {
+    method: "PATCH",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ status })
+  });
+  return await res.json();
+}

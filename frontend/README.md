@@ -1,12 +1,23 @@
 # Frontend
 
 ## Components
+    [ ] Add “Meeting History” page (list past summaries)
     [ ] Improve UI (cards, collapsible sections, modals)
     [ ] Fix/Improve UI to show results clearly / Upgrade React UI to beautifully display JSON data
+    [ ] Implement Task CRUD endpoints (edit/delete/update status)
+    [ ] Add Sprint Page + Store Sprint Plans (use Sprint table)
+    [ ] Add Meeting Details Page (clickable meeting view)
+    [ ] Improve UI (cards, styling, layout)
+    [ ] Add Developer Manager Section (skills & capacity)
 
 ## Optional
-    [ ] Add “Meeting History” page (list past summaries)
     [ ] Consolidate the UX so the flow is smoother
+    [ ] Add editable task UI (modal + update + delete buttons)
+    [ ] Add “Meeting Details” page for a clean view of one meeting
+    [ ] Add Sprint Creation for each meeting
+    [ ] Add Developer page before Sprint Planner upgrade
+    [ ] Add superior UI styling (cards, layout, theme)
+
 
 ## Example:
 

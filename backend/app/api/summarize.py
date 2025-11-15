@@ -4,7 +4,9 @@ from sqlalchemy.orm import Session
 
 from app.core.llm import call_llm
 from app.db.database import get_db
+from app.db import repository
 from app.core.json_utils import extract_json
+from app.core.logger import logger
 
 router = APIRouter()
 
@@ -14,6 +16,7 @@ class SummarizeRequest(BaseModel):
 
 
 class SummarizeResponse(BaseModel):
+    meeting_id: int | None = None
     summary: str
     decisions: list[str]
     action_items: list[str]
@@ -45,8 +48,16 @@ Return ONLY JSON. Do not include commentary.
     raw_output = call_llm(prompt, system_prompt)
     obj = extract_json(raw_output)
 
+    logger.info("Received /summarize request")
+    logger.debug(f"Raw input:\n{payload.raw_text}")
+    logger.debug(f"Parsed JSON:\n{obj}")
+
+    summary = obj.get("summary", "")
+    meeting = repository.create_meeting(db, payload.raw_text, summary)
+
     return SummarizeResponse(
-        summary=obj.get("summary", ""),
+        meeting_id=meeting.id,
+        summary=summary,
         decisions=obj.get("decisions", []),
         action_items=obj.get("action_items", []),
     )

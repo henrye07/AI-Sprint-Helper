@@ -9,7 +9,7 @@ Base.metadata.create_all(bind=engine)
 
 app = FastAPI(title="AI Sprint Copilot Backend")
 
-# CORS for Tauri/React (you can restrict later)
+# CORS for Tauri/React
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],  # TODO: tighten this in production

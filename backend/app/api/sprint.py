@@ -31,7 +31,6 @@ class PlanSprintResponse(BaseModel):
 
 @router.post("/", response_model=PlanSprintResponse)
 def plan_sprint(payload: PlanSprintRequest):
-    # Simple heuristic: choose highest-priority tasks until capacity is reached.
     sorted_tasks = sorted(
         payload.tasks,
         key=lambda t: {"high": 3, "medium": 2, "low": 1}.get(t.priority, 2),

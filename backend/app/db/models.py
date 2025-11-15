@@ -8,6 +8,8 @@ class Task(Base):
     __tablename__ = "tasks"
 
     id = Column(Integer, primary_key=True, index=True)
+    meeting_id = Column(Integer, ForeignKey("meetings.id"), nullable=True)
+
     title = Column(String(255), nullable=False)
     description = Column(Text, nullable=True)
     priority = Column(String(50), default="medium")
@@ -15,6 +17,8 @@ class Task(Base):
     assignee = Column(String(255), nullable=True)
     status = Column(String(50), default="todo")
     tags = Column(Text, nullable=True)  # simple comma-separated for now
+
+    meeting = relationship("Meeting", back_populates="tasks")
 
 
 class Meeting(Base):
@@ -24,6 +28,8 @@ class Meeting(Base):
     raw_text = Column(Text, nullable=False)
     summary = Column(Text, nullable=True)
     created_at = Column(DateTime, default=datetime.utcnow)
+
+    tasks = relationship("Task", back_populates="meeting")
 
 
 class Sprint(Base):

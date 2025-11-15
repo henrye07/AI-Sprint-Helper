@@ -1,0 +1,1182 @@
+2025-11-15 16:22:21,380 [INFO] uvicorn.error: Will watch for changes in these directories: ['C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend']
+2025-11-15 16:22:21,383 [INFO] uvicorn.error: Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-11-15 16:22:21,385 [INFO] uvicorn.error: Started reloader process [6716] using WatchFiles
+2025-11-15 16:22:21,856 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:22,209 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:22,622 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:23,033 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:23,388 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:23,802 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:24,049 [INFO] uvicorn.error: Started server process [7152]
+2025-11-15 16:22:24,052 [INFO] uvicorn.error: Waiting for application startup.
+2025-11-15 16:22:24,060 [INFO] uvicorn.error: Application startup complete.
+2025-11-15 16:22:24,211 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:24,644 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:25,003 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:25,415 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:25,771 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:26,184 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:26,594 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:26,949 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:27,353 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:27,775 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:28,132 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:28,542 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:28,949 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:29,305 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:29,715 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:30,140 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:30,499 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:30,913 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:31,323 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:31,677 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:32,087 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:32,492 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:32,848 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:33,260 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:33,667 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:34,022 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:34,431 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:34,507 [DEBUG] backend: === LLM CALL START ===
+2025-11-15 16:22:34,507 [DEBUG] backend: System prompt:
+
+You are a meeting summarization assistant.
+
+Return ONLY valid JSON in the following exact schema:
+
+{
+  "summary": string,
+  "decisions": [string],
+  "action_items": [string]
+}
+
+2025-11-15 16:22:34,508 [DEBUG] backend: User prompt:
+
+Summarize the following meeting transcript and extract decisions + action items.
+
+Transcript:
+Yesterday we reviewed the progress for Sprint 14. 
+Alice completed the authentication microservice but it still needs code review. 
+Bob reported issues integrating the payment gateway; the API vendor changed the endpoint format, so he needs 2 more days.
+
+We discussed the upcoming release deadline for version 2.1 (target: Feb 28).
+QA mentioned 17 open bugs, 5 of them marked as critical.
+
+Decisions:
+- We agreed to freeze new features starting Friday.
+- The payment integration must be the top priority.
+- Move the front-end dashboard redesign to next sprint.
+- Assign code review for Alice’s authentication service to Daniel.
+
+Action Items:
+- Bob will update the API client library.
+- QA will re-test the booking workflow after Bob’s fix.
+- Daniel will review Alice’s code by tomorrow.
+- Alice will prepare deployment documentation.
+- PM will update the release notes.
+
+We also need to estimate the new “Saved Payment Methods” feature for next month. Rough estimate: around 8 story points, backend + frontend work.
+
+Meeting ended with reminders to follow the new Git branching strategy and write more detailed PR descriptions.
+
+Return ONLY JSON. Do not include commentary.
+
+2025-11-15 16:22:34,512 [DEBUG] anthropic._base_client: Request options: {'method': 'post', 'url': '/v1/messages', 'headers': {'anthropic-beta': 'messages-2023-12-15'}, 'timeout': Timeout(connect=5.0, read=600, write=600, pool=600), 'files': None, 'idempotency_key': 'stainless-python-retry-ab3c1e8f-abe5-4032-a1bd-03b2b36c59e9', 'json_data': {'max_tokens': 1500, 'messages': [{'role': 'user', 'content': '\nSummarize the following meeting transcript and extract decisions + action items.\n\nTranscript:\nYesterday we reviewed the progress for Sprint 14. \nAlice completed the authentication microservice but it still needs code review. \nBob reported issues integrating the payment gateway; the API vendor changed the endpoint format, so he needs 2 more days.\n\nWe discussed the upcoming release deadline for version 2.1 (target: Feb 28).\nQA mentioned 17 open bugs, 5 of them marked as critical.\n\nDecisions:\n- We agreed to freeze new features starting Friday.\n- The payment integration must be the top priority.\n- Move the front-end dashboard redesign to next sprint.\n- Assign code review for Alice’s authentication service to Daniel.\n\nAction Items:\n- Bob will update the API client library.\n- QA will re-test the booking workflow after Bob’s fix.\n- Daniel will review Alice’s code by tomorrow.\n- Alice will prepare deployment documentation.\n- PM will update the release notes.\n\nWe also need to estimate the new “Saved Payment Methods” feature for next month. Rough estimate: around 8 story points, backend + frontend work.\n\nMeeting ended with reminders to follow the new Git branching strategy and write more detailed PR descriptions.\n\nReturn ONLY JSON. Do not include commentary.\n'}], 'model': 'claude-3-5-haiku-20241022', 'system': '\nYou are a meeting summarization assistant.\n\nReturn ONLY valid JSON in the following exact schema:\n\n{\n  "summary": string,\n  "decisions": [string],\n  "action_items": [string]\n}\n'}}
+2025-11-15 16:22:34,528 [DEBUG] anthropic._base_client: Sending HTTP Request: POST https://api.anthropic.com/v1/messages
+2025-11-15 16:22:34,529 [DEBUG] httpcore.connection: connect_tcp.started host='api.anthropic.com' port=443 local_address=None timeout=5.0 socket_options=[(65535, 8, True), (6, 17, 60), (6, 16, 5), (6, 3, 60)]
+2025-11-15 16:22:34,569 [DEBUG] httpcore.connection: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001BB38DB9AE0>
+2025-11-15 16:22:34,570 [DEBUG] httpcore.connection: start_tls.started ssl_context=<ssl.SSLContext object at 0x000001BB38CBFAC0> server_hostname='api.anthropic.com' timeout=5.0
+2025-11-15 16:22:34,601 [DEBUG] httpcore.connection: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001BB38DB9AB0>
+2025-11-15 16:22:34,602 [DEBUG] httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+2025-11-15 16:22:34,603 [DEBUG] httpcore.http11: send_request_headers.complete
+2025-11-15 16:22:34,603 [DEBUG] httpcore.http11: send_request_body.started request=<Request [b'POST']>
+2025-11-15 16:22:34,604 [DEBUG] httpcore.http11: send_request_body.complete
+2025-11-15 16:22:34,605 [DEBUG] httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+2025-11-15 16:22:34,835 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:35,192 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:35,602 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:36,007 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:36,366 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:36,778 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:37,188 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:37,541 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:37,779 [DEBUG] httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sat, 15 Nov 2025 22:22:37 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Content-Encoding', b'gzip'), (b'anthropic-ratelimit-input-tokens-limit', b'50000'), (b'anthropic-ratelimit-input-tokens-remaining', b'50000'), (b'anthropic-ratelimit-input-tokens-reset', b'2025-11-15T22:22:34Z'), (b'anthropic-ratelimit-output-tokens-limit', b'10000'), (b'anthropic-ratelimit-output-tokens-remaining', b'10000'), (b'anthropic-ratelimit-output-tokens-reset', b'2025-11-15T22:22:38Z'), (b'anthropic-ratelimit-requests-limit', b'50'), (b'anthropic-ratelimit-requests-remaining', b'49'), (b'anthropic-ratelimit-requests-reset', b'2025-11-15T22:22:35Z'), (b'retry-after', b'26'), (b'anthropic-ratelimit-tokens-limit', b'60000'), (b'anthropic-ratelimit-tokens-remaining', b'60000'), (b'anthropic-ratelimit-tokens-reset', b'2025-11-15T22:22:34Z'), (b'request-id', b'req_011CVATR7ZHxMr4pLkw9MK21'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'anthropic-organization-id', b'c8b37708-838d-4762-ab47-01c1010e7ee5'), (b'x-envoy-upstream-service-time', b'3022'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Robots-Tag', b'none'), (b'Server', b'cloudflare'), (b'CF-RAY', b'99f225e83be1e976-DFW')])
+2025-11-15 16:22:37,781 [INFO] httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-11-15 16:22:37,782 [DEBUG] httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+2025-11-15 16:22:37,784 [DEBUG] httpcore.http11: receive_response_body.complete
+2025-11-15 16:22:37,785 [DEBUG] httpcore.http11: response_closed.started
+2025-11-15 16:22:37,786 [DEBUG] httpcore.http11: response_closed.complete
+2025-11-15 16:22:37,786 [DEBUG] anthropic._base_client: HTTP Response: POST https://api.anthropic.com/v1/messages "200 OK" Headers({'date': 'Sat, 15 Nov 2025 22:22:37 GMT', 'content-type': 'application/json', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'content-encoding': 'gzip', 'anthropic-ratelimit-input-tokens-limit': '50000', 'anthropic-ratelimit-input-tokens-remaining': '50000', 'anthropic-ratelimit-input-tokens-reset': '2025-11-15T22:22:34Z', 'anthropic-ratelimit-output-tokens-limit': '10000', 'anthropic-ratelimit-output-tokens-remaining': '10000', 'anthropic-ratelimit-output-tokens-reset': '2025-11-15T22:22:38Z', 'anthropic-ratelimit-requests-limit': '50', 'anthropic-ratelimit-requests-remaining': '49', 'anthropic-ratelimit-requests-reset': '2025-11-15T22:22:35Z', 'retry-after': '26', 'anthropic-ratelimit-tokens-limit': '60000', 'anthropic-ratelimit-tokens-remaining': '60000', 'anthropic-ratelimit-tokens-reset': '2025-11-15T22:22:34Z', 'request-id': 'req_011CVATR7ZHxMr4pLkw9MK21', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'anthropic-organization-id': 'c8b37708-838d-4762-ab47-01c1010e7ee5', 'x-envoy-upstream-service-time': '3022', 'cf-cache-status': 'DYNAMIC', 'x-robots-tag': 'none', 'server': 'cloudflare', 'cf-ray': '99f225e83be1e976-DFW'})
+2025-11-15 16:22:37,787 [DEBUG] anthropic._base_client: request_id: req_011CVATR7ZHxMr4pLkw9MK21
+2025-11-15 16:22:37,826 [DEBUG] backend: LLM response:
+{
+  "summary": "Sprint 14 review meeting covered progress on authentication microservice, payment gateway integration challenges, and upcoming version 2.1 release. The team discussed current development status, open bugs, and prioritization of tasks.",
+  "decisions": [
+    "Freeze new features starting Friday",
+    "Payment integration is top priority",
+    "Move front-end dashboard redesign to next sprint", 
+    "Assign Daniel for code review of Alice's authentication service"
+  ],
+  "action_items": [
+    "Bob will update the API client library",
+    "QA will re-test booking workflow after Bob's fix",
+    "Daniel will review Alice's code by tomorrow",
+    "Alice will prepare deployment documentation", 
+    "PM will update release notes",
+    "Estimate 'Saved Payment Methods' feature at 8 story points"
+  ]
+}
+2025-11-15 16:22:37,827 [DEBUG] backend: === LLM CALL END ===
+2025-11-15 16:22:37,828 [INFO] backend: Received /summarize request
+2025-11-15 16:22:37,829 [DEBUG] backend: Raw input:
+Yesterday we reviewed the progress for Sprint 14. 
+Alice completed the authentication microservice but it still needs code review. 
+Bob reported issues integrating the payment gateway; the API vendor changed the endpoint format, so he needs 2 more days.
+
+We discussed the upcoming release deadline for version 2.1 (target: Feb 28).
+QA mentioned 17 open bugs, 5 of them marked as critical.
+
+Decisions:
+- We agreed to freeze new features starting Friday.
+- The payment integration must be the top priority.
+- Move the front-end dashboard redesign to next sprint.
+- Assign code review for Alice’s authentication service to Daniel.
+
+Action Items:
+- Bob will update the API client library.
+- QA will re-test the booking workflow after Bob’s fix.
+- Daniel will review Alice’s code by tomorrow.
+- Alice will prepare deployment documentation.
+- PM will update the release notes.
+
+We also need to estimate the new “Saved Payment Methods” feature for next month. Rough estimate: around 8 story points, backend + frontend work.
+
+Meeting ended with reminders to follow the new Git branching strategy and write more detailed PR descriptions.
+2025-11-15 16:22:37,830 [DEBUG] backend: Parsed JSON:
+{'summary': 'Sprint 14 review meeting covered progress on authentication microservice, payment gateway integration challenges, and upcoming version 2.1 release. The team discussed current development status, open bugs, and prioritization of tasks.', 'decisions': ['Freeze new features starting Friday', 'Payment integration is top priority', 'Move front-end dashboard redesign to next sprint', "Assign Daniel for code review of Alice's authentication service"], 'action_items': ['Bob will update the API client library', "QA will re-test booking workflow after Bob's fix", "Daniel will review Alice's code by tomorrow", 'Alice will prepare deployment documentation', 'PM will update release notes', "Estimate 'Saved Payment Methods' feature at 8 story points"]}
+2025-11-15 16:22:37,869 [DEBUG] httpcore.connection: close.started
+2025-11-15 16:22:37,870 [DEBUG] httpcore.connection: close.complete
+2025-11-15 16:22:37,874 [DEBUG] backend: Created meeting: ID=1
+2025-11-15 16:22:37,952 [DEBUG] watchfiles.main: 4 changes detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\data.db'), (<Change.deleted: 3>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\data.db-journal'), (<Change.added: 1>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\data.db-journal'), (<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:37,973 [DEBUG] backend: === LLM CALL START ===
+2025-11-15 16:22:37,974 [DEBUG] backend: System prompt:
+
+You extract actionable development tasks.
+Return ONLY a JSON array in this exact format:
+[
+  {
+    "title": string,
+    "description": string,
+    "priority": "low" | "medium" | "high",
+    "effort": integer,
+    "tags": [string]
+  }
+]
+
+2025-11-15 16:22:37,975 [DEBUG] backend: User prompt:
+
+Extract all actionable development tasks from this summary:
+
+Sprint 14 review meeting covered progress on authentication microservice, payment gateway integration challenges, and upcoming version 2.1 release. The team discussed current development status, open bugs, and prioritization of tasks.
+
+Return ONLY JSON array. No explanation.
+
+2025-11-15 16:22:37,976 [DEBUG] anthropic._base_client: Request options: {'method': 'post', 'url': '/v1/messages', 'headers': {'anthropic-beta': 'messages-2023-12-15'}, 'timeout': Timeout(connect=5.0, read=600, write=600, pool=600), 'files': None, 'idempotency_key': 'stainless-python-retry-69c9b88f-37b9-484c-a789-2f8c19ed8420', 'json_data': {'max_tokens': 1500, 'messages': [{'role': 'user', 'content': '\nExtract all actionable development tasks from this summary:\n\nSprint 14 review meeting covered progress on authentication microservice, payment gateway integration challenges, and upcoming version 2.1 release. The team discussed current development status, open bugs, and prioritization of tasks.\n\nReturn ONLY JSON array. No explanation.\n'}], 'model': 'claude-3-5-haiku-20241022', 'system': '\nYou extract actionable development tasks.\nReturn ONLY a JSON array in this exact format:\n[\n  {\n    "title": string,\n    "description": string,\n    "priority": "low" | "medium" | "high",\n    "effort": integer,\n    "tags": [string]\n  }\n]\n'}}
+2025-11-15 16:22:37,978 [DEBUG] anthropic._base_client: Sending HTTP Request: POST https://api.anthropic.com/v1/messages
+2025-11-15 16:22:37,979 [DEBUG] httpcore.connection: connect_tcp.started host='api.anthropic.com' port=443 local_address=None timeout=5.0 socket_options=[(65535, 8, True), (6, 17, 60), (6, 16, 5), (6, 3, 60)]
+2025-11-15 16:22:37,991 [DEBUG] httpcore.connection: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001BB38DBADD0>
+2025-11-15 16:22:37,992 [DEBUG] httpcore.connection: start_tls.started ssl_context=<ssl.SSLContext object at 0x000001BB38CBC1C0> server_hostname='api.anthropic.com' timeout=5.0
+2025-11-15 16:22:38,010 [DEBUG] httpcore.connection: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001BB38DBAC80>
+2025-11-15 16:22:38,011 [DEBUG] httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+2025-11-15 16:22:38,012 [DEBUG] httpcore.http11: send_request_headers.complete
+2025-11-15 16:22:38,012 [DEBUG] httpcore.http11: send_request_body.started request=<Request [b'POST']>
+2025-11-15 16:22:38,013 [DEBUG] httpcore.http11: send_request_body.complete
+2025-11-15 16:22:38,014 [DEBUG] httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+2025-11-15 16:22:38,357 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:38,763 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:39,118 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:39,525 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:39,931 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:40,286 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:40,699 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:41,107 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:41,461 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:41,872 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:42,280 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:42,637 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:42,695 [DEBUG] httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sat, 15 Nov 2025 22:22:42 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Content-Encoding', b'gzip'), (b'anthropic-ratelimit-input-tokens-limit', b'50000'), (b'anthropic-ratelimit-input-tokens-remaining', b'50000'), (b'anthropic-ratelimit-input-tokens-reset', b'2025-11-15T22:22:37Z'), (b'anthropic-ratelimit-output-tokens-limit', b'10000'), (b'anthropic-ratelimit-output-tokens-remaining', b'10000'), (b'anthropic-ratelimit-output-tokens-reset', b'2025-11-15T22:22:44Z'), (b'anthropic-ratelimit-requests-limit', b'50'), (b'anthropic-ratelimit-requests-remaining', b'49'), (b'anthropic-ratelimit-requests-reset', b'2025-11-15T22:22:38Z'), (b'retry-after', b'24'), (b'anthropic-ratelimit-tokens-limit', b'60000'), (b'anthropic-ratelimit-tokens-remaining', b'60000'), (b'anthropic-ratelimit-tokens-reset', b'2025-11-15T22:22:37Z'), (b'request-id', b'req_011CVATRN8e1gw61u3XTm3yL'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'anthropic-organization-id', b'c8b37708-838d-4762-ab47-01c1010e7ee5'), (b'x-envoy-upstream-service-time', b'4576'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Robots-Tag', b'none'), (b'Server', b'cloudflare'), (b'CF-RAY', b'99f225fd7ba2f07c-DFW')])
+2025-11-15 16:22:42,697 [INFO] httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-11-15 16:22:42,697 [DEBUG] httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+2025-11-15 16:22:42,699 [DEBUG] httpcore.http11: receive_response_body.complete
+2025-11-15 16:22:42,699 [DEBUG] httpcore.http11: response_closed.started
+2025-11-15 16:22:42,700 [DEBUG] httpcore.http11: response_closed.complete
+2025-11-15 16:22:42,700 [DEBUG] anthropic._base_client: HTTP Response: POST https://api.anthropic.com/v1/messages "200 OK" Headers({'date': 'Sat, 15 Nov 2025 22:22:42 GMT', 'content-type': 'application/json', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'content-encoding': 'gzip', 'anthropic-ratelimit-input-tokens-limit': '50000', 'anthropic-ratelimit-input-tokens-remaining': '50000', 'anthropic-ratelimit-input-tokens-reset': '2025-11-15T22:22:37Z', 'anthropic-ratelimit-output-tokens-limit': '10000', 'anthropic-ratelimit-output-tokens-remaining': '10000', 'anthropic-ratelimit-output-tokens-reset': '2025-11-15T22:22:44Z', 'anthropic-ratelimit-requests-limit': '50', 'anthropic-ratelimit-requests-remaining': '49', 'anthropic-ratelimit-requests-reset': '2025-11-15T22:22:38Z', 'retry-after': '24', 'anthropic-ratelimit-tokens-limit': '60000', 'anthropic-ratelimit-tokens-remaining': '60000', 'anthropic-ratelimit-tokens-reset': '2025-11-15T22:22:37Z', 'request-id': 'req_011CVATRN8e1gw61u3XTm3yL', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'anthropic-organization-id': 'c8b37708-838d-4762-ab47-01c1010e7ee5', 'x-envoy-upstream-service-time': '4576', 'cf-cache-status': 'DYNAMIC', 'x-robots-tag': 'none', 'server': 'cloudflare', 'cf-ray': '99f225fd7ba2f07c-DFW'})
+2025-11-15 16:22:42,701 [DEBUG] anthropic._base_client: request_id: req_011CVATRN8e1gw61u3XTm3yL
+2025-11-15 16:22:42,702 [DEBUG] backend: LLM response:
+[
+  {
+    "title": "Authentication Microservice Refinement",
+    "description": "Complete development and testing of authentication microservice based on current sprint review status",
+    "priority": "high", 
+    "effort": 5,
+    "tags": ["microservice", "authentication", "backend"]
+  },
+  {
+    "title": "Payment Gateway Integration",
+    "description": "Address and resolve integration challenges with current payment gateway implementation",
+    "priority": "high",
+    "effort": 4,
+    "tags": ["payment", "integration", "infrastructure"]
+  },
+  {
+    "title": "Prepare Version 2.1 Release",
+    "description": "Plan and package artifacts for upcoming version 2.1 software release",
+    "priority": "medium",
+    "effort": 3,
+    "tags": ["release", "deployment", "versioning"]
+  },
+  {
+    "title": "Bug Triage and Prioritization",
+    "description": "Review and categorize open bugs identified in sprint review, create detailed tickets",
+    "priority": "medium", 
+    "effort": 2,
+    "tags": ["bugfix", "qa", "maintenance"]
+  }
+]
+2025-11-15 16:22:42,703 [DEBUG] backend: === LLM CALL END ===
+2025-11-15 16:22:42,704 [INFO] backend: Extact Tasks request from Meeting ID:1
+2025-11-15 16:22:42,704 [DEBUG] backend: Raw input:
+Sprint 14 review meeting covered progress on authentication microservice, payment gateway integration challenges, and upcoming version 2.1 release. The team discussed current development status, open bugs, and prioritization of tasks.
+2025-11-15 16:22:42,705 [DEBUG] backend: Parsed JSON:
+[{'title': 'Authentication Microservice Refinement', 'description': 'Complete development and testing of authentication microservice based on current sprint review status', 'priority': 'high', 'effort': 5, 'tags': ['microservice', 'authentication', 'backend']}, {'title': 'Payment Gateway Integration', 'description': 'Address and resolve integration challenges with current payment gateway implementation', 'priority': 'high', 'effort': 4, 'tags': ['payment', 'integration', 'infrastructure']}, {'title': 'Prepare Version 2.1 Release', 'description': 'Plan and package artifacts for upcoming version 2.1 software release', 'priority': 'medium', 'effort': 3, 'tags': ['release', 'deployment', 'versioning']}, {'title': 'Bug Triage and Prioritization', 'description': 'Review and categorize open bugs identified in sprint review, create detailed tickets', 'priority': 'medium', 'effort': 2, 'tags': ['bugfix', 'qa', 'maintenance']}]
+2025-11-15 16:22:42,706 [DEBUG] backend: Saving tasks: [{'title': 'Authentication Microservice Refinement', 'description': 'Complete development and testing of authentication microservice based on current sprint review status', 'priority': 'high', 'effort': 5, 'tags': ['microservice', 'authentication', 'backend']}, {'title': 'Payment Gateway Integration', 'description': 'Address and resolve integration challenges with current payment gateway implementation', 'priority': 'high', 'effort': 4, 'tags': ['payment', 'integration', 'infrastructure']}, {'title': 'Prepare Version 2.1 Release', 'description': 'Plan and package artifacts for upcoming version 2.1 software release', 'priority': 'medium', 'effort': 3, 'tags': ['release', 'deployment', 'versioning']}, {'title': 'Bug Triage and Prioritization', 'description': 'Review and categorize open bugs identified in sprint review, create detailed tickets', 'priority': 'medium', 'effort': 2, 'tags': ['bugfix', 'qa', 'maintenance']}]
+2025-11-15 16:22:42,722 [DEBUG] httpcore.connection: close.started
+2025-11-15 16:22:42,723 [DEBUG] httpcore.connection: close.complete
+2025-11-15 16:22:42,998 [DEBUG] watchfiles.main: 3 changes detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\data.db'), (<Change.deleted: 3>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\data.db-journal'), (<Change.added: 1>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\data.db-journal')}
+2025-11-15 16:22:43,355 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:43,717 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:44,069 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:44,427 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:44,785 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:45,145 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:45,556 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:45,913 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:46,325 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:46,734 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:47,089 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:47,499 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:47,907 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:48,266 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:48,674 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:49,081 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:49,485 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:49,889 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:50,243 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:50,654 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:51,063 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:51,420 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:51,830 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:52,235 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:52,592 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:53,001 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:53,403 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:53,813 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:54,221 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:54,581 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:54,990 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:55,396 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:55,804 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:56,160 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:56,569 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:56,978 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:57,338 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:57,728 [DEBUG] backend: Fetching last meeting: 1
+2025-11-15 16:22:57,734 [INFO] backend: Chat request received
+2025-11-15 16:22:57,734 [DEBUG] backend: User message: Based on the tasks from the meeting, which ones should be in the next sprint if our capacity is 12 story points?
+2025-11-15 16:22:57,735 [DEBUG] backend: Meeting summary loaded:
+Sprint 14 review meeting covered progress on authentication microservice, payment gateway integration challenges, and upcoming version 2.1 release. The team discussed current development status, open bugs, and prioritization of tasks.
+2025-11-15 16:22:57,735 [DEBUG] backend: Tasks loaded:
+[
+  {
+    "title": "Authentication Microservice Refinement",
+    "description": "Complete development and testing of authentication microservice based on current sprint review status",
+    "priority": "high",
+    "effort": 5,
+    "status": "todo",
+    "tags": [
+      "microservice",
+      "authentication",
+      "backend"
+    ]
+  },
+  {
+    "title": "Payment Gateway Integration",
+    "description": "Address and resolve integration challenges with current payment gateway implementation",
+    "priority": "high",
+    "effort": 4,
+    "status": "todo",
+    "tags": [
+      "payment",
+      "integration",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Prepare Version 2.1 Release",
+    "description": "Plan and package artifacts for upcoming version 2.1 software release",
+    "priority": "medium",
+    "effort": 3,
+    "status": "todo",
+    "tags": [
+      "release",
+      "deployment",
+      "versioning"
+    ]
+  },
+  {
+    "title": "Bug Triage and Prioritization",
+    "description": "Review and categorize open bugs identified in sprint review, create detailed tickets",
+    "priority": "medium",
+    "effort": 2,
+    "status": "todo",
+    "tags": [
+      "bugfix",
+      "qa",
+      "maintenance"
+    ]
+  }
+]
+2025-11-15 16:22:57,749 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:57,761 [DEBUG] backend: === LLM CALL START ===
+2025-11-15 16:22:57,761 [DEBUG] backend: System prompt:
+
+        You are an AI assistant helping with software project management and sprint planning. 
+        Answer concisely and clearly.
+        Here is the summary of the last meeting:
+        Sprint 14 review meeting covered progress on authentication microservice, payment gateway integration challenges, and upcoming version 2.1 release. The team discussed current development status, open bugs, and prioritization of tasks.
+        Here are the tasks extracted from that meeting as JSON:
+        [
+  {
+    "title": "Authentication Microservice Refinement",
+    "description": "Complete development and testing of authentication microservice based on current sprint review status",
+    "priority": "high",
+    "effort": 5,
+    "status": "todo",
+    "tags": [
+      "microservice",
+      "authentication",
+      "backend"
+    ]
+  },
+  {
+    "title": "Payment Gateway Integration",
+    "description": "Address and resolve integration challenges with current payment gateway implementation",
+    "priority": "high",
+    "effort": 4,
+    "status": "todo",
+    "tags": [
+      "payment",
+      "integration",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Prepare Version 2.1 Release",
+    "description": "Plan and package artifacts for upcoming version 2.1 software release",
+    "priority": "medium",
+    "effort": 3,
+    "status": "todo",
+    "tags": [
+      "release",
+      "deployment",
+      "versioning"
+    ]
+  },
+  {
+    "title": "Bug Triage and Prioritization",
+    "description": "Review and categorize open bugs identified in sprint review, create detailed tickets",
+    "priority": "medium",
+    "effort": 2,
+    "status": "todo",
+    "tags": [
+      "bugfix",
+      "qa",
+      "maintenance"
+    ]
+  }
+]
+        Use ONLY this information to answer the user's question.
+        If the user asks about tasks or priorities, use this task list.
+        If the user asks about decisions or context, use the meeting summary.
+        Do not ask for tasks again unless the user says they changed.
+    
+2025-11-15 16:22:57,762 [DEBUG] backend: User prompt:
+Based on the tasks from the meeting, which ones should be in the next sprint if our capacity is 12 story points?
+2025-11-15 16:22:57,763 [DEBUG] anthropic._base_client: Request options: {'method': 'post', 'url': '/v1/messages', 'headers': {'anthropic-beta': 'messages-2023-12-15'}, 'timeout': Timeout(connect=5.0, read=600, write=600, pool=600), 'files': None, 'idempotency_key': 'stainless-python-retry-4f6a6a66-855b-41cc-89c3-d520fe17ca18', 'json_data': {'max_tokens': 1500, 'messages': [{'role': 'user', 'content': 'Based on the tasks from the meeting, which ones should be in the next sprint if our capacity is 12 story points?'}], 'model': 'claude-3-5-haiku-20241022', 'system': '\n        You are an AI assistant helping with software project management and sprint planning. \n        Answer concisely and clearly.\n        Here is the summary of the last meeting:\n        Sprint 14 review meeting covered progress on authentication microservice, payment gateway integration challenges, and upcoming version 2.1 release. The team discussed current development status, open bugs, and prioritization of tasks.\n        Here are the tasks extracted from that meeting as JSON:\n        [\n  {\n    "title": "Authentication Microservice Refinement",\n    "description": "Complete development and testing of authentication microservice based on current sprint review status",\n    "priority": "high",\n    "effort": 5,\n    "status": "todo",\n    "tags": [\n      "microservice",\n      "authentication",\n      "backend"\n    ]\n  },\n  {\n    "title": "Payment Gateway Integration",\n    "description": "Address and resolve integration challenges with current payment gateway implementation",\n    "priority": "high",\n    "effort": 4,\n    "status": "todo",\n    "tags": [\n      "payment",\n      "integration",\n      "infrastructure"\n    ]\n  },\n  {\n    "title": "Prepare Version 2.1 Release",\n    "description": "Plan and package artifacts for upcoming version 2.1 software release",\n    "priority": "medium",\n    "effort": 3,\n    "status": "todo",\n    "tags": [\n      "release",\n      "deployment",\n      "versioning"\n    ]\n  },\n  {\n    "title": "Bug Triage and Prioritization",\n    "description": "Review and categorize open bugs identified in sprint review, create detailed tickets",\n    "priority": "medium",\n    "effort": 2,\n    "status": "todo",\n    "tags": [\n      "bugfix",\n      "qa",\n      "maintenance"\n    ]\n  }\n]\n        Use ONLY this information to answer the user\'s question.\n        If the user asks about tasks or priorities, use this task list.\n        If the user asks about decisions or context, use the meeting summary.\n        Do not ask for tasks again unless the user says they changed.\n    '}}
+2025-11-15 16:22:57,764 [DEBUG] anthropic._base_client: Sending HTTP Request: POST https://api.anthropic.com/v1/messages
+2025-11-15 16:22:57,765 [DEBUG] httpcore.connection: connect_tcp.started host='api.anthropic.com' port=443 local_address=None timeout=5.0 socket_options=[(65535, 8, True), (6, 17, 60), (6, 16, 5), (6, 3, 60)]
+2025-11-15 16:22:57,786 [DEBUG] httpcore.connection: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001BB38ED8BE0>
+2025-11-15 16:22:57,787 [DEBUG] httpcore.connection: start_tls.started ssl_context=<ssl.SSLContext object at 0x000001BB38DB2EC0> server_hostname='api.anthropic.com' timeout=5.0
+2025-11-15 16:22:57,804 [DEBUG] httpcore.connection: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001BB38ED8A30>
+2025-11-15 16:22:57,804 [DEBUG] httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+2025-11-15 16:22:57,805 [DEBUG] httpcore.http11: send_request_headers.complete
+2025-11-15 16:22:57,806 [DEBUG] httpcore.http11: send_request_body.started request=<Request [b'POST']>
+2025-11-15 16:22:57,807 [DEBUG] httpcore.http11: send_request_body.complete
+2025-11-15 16:22:57,807 [DEBUG] httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+2025-11-15 16:22:58,153 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:58,508 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:58,919 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:59,321 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:22:59,729 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:00,133 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:00,537 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:00,822 [DEBUG] httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sat, 15 Nov 2025 22:23:00 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Content-Encoding', b'gzip'), (b'anthropic-ratelimit-input-tokens-limit', b'50000'), (b'anthropic-ratelimit-input-tokens-remaining', b'50000'), (b'anthropic-ratelimit-input-tokens-reset', b'2025-11-15T22:22:58Z'), (b'anthropic-ratelimit-output-tokens-limit', b'10000'), (b'anthropic-ratelimit-output-tokens-remaining', b'10000'), (b'anthropic-ratelimit-output-tokens-reset', b'2025-11-15T22:23:01Z'), (b'anthropic-ratelimit-requests-limit', b'50'), (b'anthropic-ratelimit-requests-remaining', b'49'), (b'anthropic-ratelimit-requests-reset', b'2025-11-15T22:22:58Z'), (b'retry-after', b'3'), (b'anthropic-ratelimit-tokens-limit', b'60000'), (b'anthropic-ratelimit-tokens-remaining', b'60000'), (b'anthropic-ratelimit-tokens-reset', b'2025-11-15T22:22:58Z'), (b'request-id', b'req_011CVATSpkZMunK7PaRN3YbM'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'anthropic-organization-id', b'c8b37708-838d-4762-ab47-01c1010e7ee5'), (b'x-envoy-upstream-service-time', b'2884'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Robots-Tag', b'none'), (b'Server', b'cloudflare'), (b'CF-RAY', b'99f226793b08b66c-DFW')])
+2025-11-15 16:23:00,823 [INFO] httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-11-15 16:23:00,824 [DEBUG] httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+2025-11-15 16:23:00,825 [DEBUG] httpcore.http11: receive_response_body.complete
+2025-11-15 16:23:00,826 [DEBUG] httpcore.http11: response_closed.started
+2025-11-15 16:23:00,826 [DEBUG] httpcore.http11: response_closed.complete
+2025-11-15 16:23:00,827 [DEBUG] anthropic._base_client: HTTP Response: POST https://api.anthropic.com/v1/messages "200 OK" Headers({'date': 'Sat, 15 Nov 2025 22:23:00 GMT', 'content-type': 'application/json', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'content-encoding': 'gzip', 'anthropic-ratelimit-input-tokens-limit': '50000', 'anthropic-ratelimit-input-tokens-remaining': '50000', 'anthropic-ratelimit-input-tokens-reset': '2025-11-15T22:22:58Z', 'anthropic-ratelimit-output-tokens-limit': '10000', 'anthropic-ratelimit-output-tokens-remaining': '10000', 'anthropic-ratelimit-output-tokens-reset': '2025-11-15T22:23:01Z', 'anthropic-ratelimit-requests-limit': '50', 'anthropic-ratelimit-requests-remaining': '49', 'anthropic-ratelimit-requests-reset': '2025-11-15T22:22:58Z', 'retry-after': '3', 'anthropic-ratelimit-tokens-limit': '60000', 'anthropic-ratelimit-tokens-remaining': '60000', 'anthropic-ratelimit-tokens-reset': '2025-11-15T22:22:58Z', 'request-id': 'req_011CVATSpkZMunK7PaRN3YbM', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'anthropic-organization-id': 'c8b37708-838d-4762-ab47-01c1010e7ee5', 'x-envoy-upstream-service-time': '2884', 'cf-cache-status': 'DYNAMIC', 'x-robots-tag': 'none', 'server': 'cloudflare', 'cf-ray': '99f226793b08b66c-DFW'})
+2025-11-15 16:23:00,827 [DEBUG] anthropic._base_client: request_id: req_011CVATSpkZMunK7PaRN3YbM
+2025-11-15 16:23:00,829 [DEBUG] backend: LLM response:
+Based on the task list and their effort points, here's a recommended sprint plan:
+
+1. Authentication Microservice Refinement (5 points)
+2. Payment Gateway Integration (4 points)
+3. Bug Triage and Prioritization (2 points)
+
+Total: 11 points, which fits within the 12-point capacity. 
+
+The "Prepare Version 2.1 Release" task (3 points) could be a stretch goal if time permits, but it might be better to prioritize the high-priority tasks first. Both Authentication Microservice and Payment Gateway Integration are marked as high priority, so they should be the primary focus of the next sprint.
+2025-11-15 16:23:00,829 [DEBUG] backend: === LLM CALL END ===
+2025-11-15 16:23:00,893 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:01,303 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:01,709 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:02,114 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:02,518 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:02,875 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:03,285 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:03,692 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:04,098 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:04,502 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:04,859 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:05,268 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:05,677 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:06,033 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:06,441 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:06,847 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:07,204 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:07,613 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:08,021 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:08,377 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:08,788 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:09,197 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:09,554 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:09,964 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:10,372 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:10,728 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:11,135 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:11,541 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:11,896 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:12,305 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:12,712 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:13,068 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:13,477 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:13,880 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:14,236 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:14,643 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:15,051 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:15,459 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:15,817 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:16,228 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:16,635 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:16,992 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:17,400 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:17,806 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:18,164 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:18,575 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:18,980 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:19,337 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:19,746 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:20,151 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:20,557 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:20,913 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:21,323 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:21,729 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:22,090 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:22,499 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:22,906 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:23,263 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:23,675 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:24,080 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:24,439 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:24,849 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:25,256 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:25,659 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:26,017 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:26,427 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:26,836 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:27,193 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:27,603 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:28,011 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:28,368 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:28,776 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:29,182 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:29,587 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:29,946 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:30,351 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:30,758 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:31,163 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:31,519 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:31,929 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:32,332 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:32,738 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:33,143 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:33,497 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:33,906 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:34,312 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:34,716 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:35,071 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:35,479 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:35,886 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:36,291 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:36,646 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:37,056 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:37,461 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:37,864 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:38,273 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:38,677 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:39,031 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:39,440 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:39,845 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:40,254 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:40,661 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:41,065 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:41,420 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:41,831 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:42,239 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:42,596 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:43,006 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:43,412 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:43,767 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:44,179 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:44,587 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:44,990 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:45,346 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:45,758 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:46,164 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:46,525 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:46,934 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:47,341 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:47,750 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:48,105 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:48,512 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:48,916 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:49,322 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:49,726 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:50,082 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:50,488 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:50,895 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:51,250 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:51,659 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:52,065 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:52,471 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:52,827 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:53,240 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:53,646 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:54,004 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:54,416 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:54,821 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:55,176 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:55,585 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:55,989 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:56,394 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:56,752 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:57,160 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:57,566 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:57,968 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:58,325 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:58,735 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:59,143 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:59,499 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:23:59,907 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:00,317 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:00,673 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:01,082 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:01,488 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:01,843 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:02,255 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:02,660 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:03,017 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:03,425 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:03,832 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:04,237 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:04,593 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:05,006 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:05,410 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:05,765 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:06,173 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:06,582 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:06,936 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:07,348 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:07,753 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:08,109 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:08,521 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:08,927 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:09,343 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:09,700 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:10,110 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:10,516 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:10,872 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:11,281 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:11,685 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:12,091 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:12,446 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:12,857 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:13,263 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:13,665 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:14,021 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:14,428 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:14,837 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:15,243 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:15,598 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:16,009 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:16,365 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:16,778 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:17,180 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:17,534 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:17,945 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:18,355 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:18,709 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:19,120 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:19,528 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:19,887 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:20,298 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:20,707 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:21,063 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:21,471 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:21,876 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:22,282 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:22,689 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:23,046 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:23,457 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:23,863 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:24,217 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:24,628 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:25,035 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:25,438 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:25,794 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:26,202 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:26,610 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:26,966 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:27,376 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:27,779 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:28,138 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:28,550 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:28,956 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:29,315 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:29,727 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:30,132 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:30,489 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:30,902 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:31,310 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:31,666 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:32,074 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:32,481 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:32,886 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:33,245 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:33,657 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:34,063 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:34,419 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:34,829 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:35,234 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:35,590 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:36,000 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:36,402 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:36,807 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:37,212 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:37,615 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:37,973 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:38,383 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:38,791 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:39,195 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:39,597 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:39,951 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:40,362 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:40,767 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:41,123 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:41,532 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:41,940 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:42,362 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:42,728 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:43,090 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:43,502 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:43,911 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:44,274 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:44,688 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:45,047 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:45,456 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:45,866 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:46,275 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:46,629 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:47,036 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:47,441 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:47,845 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:48,251 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:48,253 [DEBUG] backend: Fetching last meeting: 1
+2025-11-15 16:24:48,255 [INFO] backend: Chat request received
+2025-11-15 16:24:48,255 [DEBUG] backend: User message: Sort all extracted tasks by risk level.
+2025-11-15 16:24:48,256 [DEBUG] backend: Meeting summary loaded:
+Sprint 14 review meeting covered progress on authentication microservice, payment gateway integration challenges, and upcoming version 2.1 release. The team discussed current development status, open bugs, and prioritization of tasks.
+2025-11-15 16:24:48,256 [DEBUG] backend: Tasks loaded:
+[
+  {
+    "title": "Authentication Microservice Refinement",
+    "description": "Complete development and testing of authentication microservice based on current sprint review status",
+    "priority": "high",
+    "effort": 5,
+    "status": "todo",
+    "tags": [
+      "microservice",
+      "authentication",
+      "backend"
+    ]
+  },
+  {
+    "title": "Payment Gateway Integration",
+    "description": "Address and resolve integration challenges with current payment gateway implementation",
+    "priority": "high",
+    "effort": 4,
+    "status": "todo",
+    "tags": [
+      "payment",
+      "integration",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Prepare Version 2.1 Release",
+    "description": "Plan and package artifacts for upcoming version 2.1 software release",
+    "priority": "medium",
+    "effort": 3,
+    "status": "todo",
+    "tags": [
+      "release",
+      "deployment",
+      "versioning"
+    ]
+  },
+  {
+    "title": "Bug Triage and Prioritization",
+    "description": "Review and categorize open bugs identified in sprint review, create detailed tickets",
+    "priority": "medium",
+    "effort": 2,
+    "status": "todo",
+    "tags": [
+      "bugfix",
+      "qa",
+      "maintenance"
+    ]
+  }
+]
+2025-11-15 16:24:48,281 [DEBUG] backend: === LLM CALL START ===
+2025-11-15 16:24:48,281 [DEBUG] backend: System prompt:
+
+        You are an AI assistant helping with software project management and sprint planning. 
+        Answer concisely and clearly.
+        Here is the summary of the last meeting:
+        Sprint 14 review meeting covered progress on authentication microservice, payment gateway integration challenges, and upcoming version 2.1 release. The team discussed current development status, open bugs, and prioritization of tasks.
+        Here are the tasks extracted from that meeting as JSON:
+        [
+  {
+    "title": "Authentication Microservice Refinement",
+    "description": "Complete development and testing of authentication microservice based on current sprint review status",
+    "priority": "high",
+    "effort": 5,
+    "status": "todo",
+    "tags": [
+      "microservice",
+      "authentication",
+      "backend"
+    ]
+  },
+  {
+    "title": "Payment Gateway Integration",
+    "description": "Address and resolve integration challenges with current payment gateway implementation",
+    "priority": "high",
+    "effort": 4,
+    "status": "todo",
+    "tags": [
+      "payment",
+      "integration",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Prepare Version 2.1 Release",
+    "description": "Plan and package artifacts for upcoming version 2.1 software release",
+    "priority": "medium",
+    "effort": 3,
+    "status": "todo",
+    "tags": [
+      "release",
+      "deployment",
+      "versioning"
+    ]
+  },
+  {
+    "title": "Bug Triage and Prioritization",
+    "description": "Review and categorize open bugs identified in sprint review, create detailed tickets",
+    "priority": "medium",
+    "effort": 2,
+    "status": "todo",
+    "tags": [
+      "bugfix",
+      "qa",
+      "maintenance"
+    ]
+  }
+]
+        Use ONLY this information to answer the user's question.
+        If the user asks about tasks or priorities, use this task list.
+        If the user asks about decisions or context, use the meeting summary.
+        Do not ask for tasks again unless the user says they changed.
+    
+2025-11-15 16:24:48,282 [DEBUG] backend: User prompt:
+Sort all extracted tasks by risk level.
+2025-11-15 16:24:48,283 [DEBUG] anthropic._base_client: Request options: {'method': 'post', 'url': '/v1/messages', 'headers': {'anthropic-beta': 'messages-2023-12-15'}, 'timeout': Timeout(connect=5.0, read=600, write=600, pool=600), 'files': None, 'idempotency_key': 'stainless-python-retry-dbb0510c-c862-4d97-b565-edf6dccd5c2c', 'json_data': {'max_tokens': 1500, 'messages': [{'role': 'user', 'content': 'Sort all extracted tasks by risk level.'}], 'model': 'claude-3-5-haiku-20241022', 'system': '\n        You are an AI assistant helping with software project management and sprint planning. \n        Answer concisely and clearly.\n        Here is the summary of the last meeting:\n        Sprint 14 review meeting covered progress on authentication microservice, payment gateway integration challenges, and upcoming version 2.1 release. The team discussed current development status, open bugs, and prioritization of tasks.\n        Here are the tasks extracted from that meeting as JSON:\n        [\n  {\n    "title": "Authentication Microservice Refinement",\n    "description": "Complete development and testing of authentication microservice based on current sprint review status",\n    "priority": "high",\n    "effort": 5,\n    "status": "todo",\n    "tags": [\n      "microservice",\n      "authentication",\n      "backend"\n    ]\n  },\n  {\n    "title": "Payment Gateway Integration",\n    "description": "Address and resolve integration challenges with current payment gateway implementation",\n    "priority": "high",\n    "effort": 4,\n    "status": "todo",\n    "tags": [\n      "payment",\n      "integration",\n      "infrastructure"\n    ]\n  },\n  {\n    "title": "Prepare Version 2.1 Release",\n    "description": "Plan and package artifacts for upcoming version 2.1 software release",\n    "priority": "medium",\n    "effort": 3,\n    "status": "todo",\n    "tags": [\n      "release",\n      "deployment",\n      "versioning"\n    ]\n  },\n  {\n    "title": "Bug Triage and Prioritization",\n    "description": "Review and categorize open bugs identified in sprint review, create detailed tickets",\n    "priority": "medium",\n    "effort": 2,\n    "status": "todo",\n    "tags": [\n      "bugfix",\n      "qa",\n      "maintenance"\n    ]\n  }\n]\n        Use ONLY this information to answer the user\'s question.\n        If the user asks about tasks or priorities, use this task list.\n        If the user asks about decisions or context, use the meeting summary.\n        Do not ask for tasks again unless the user says they changed.\n    '}}
+2025-11-15 16:24:48,284 [DEBUG] anthropic._base_client: Sending HTTP Request: POST https://api.anthropic.com/v1/messages
+2025-11-15 16:24:48,285 [DEBUG] httpcore.connection: connect_tcp.started host='api.anthropic.com' port=443 local_address=None timeout=5.0 socket_options=[(65535, 8, True), (6, 17, 60), (6, 16, 5), (6, 3, 60)]
+2025-11-15 16:24:48,299 [DEBUG] httpcore.connection: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001BB38EDB1C0>
+2025-11-15 16:24:48,299 [DEBUG] httpcore.connection: start_tls.started ssl_context=<ssl.SSLContext object at 0x000001BB38DB30C0> server_hostname='api.anthropic.com' timeout=5.0
+2025-11-15 16:24:48,321 [DEBUG] httpcore.connection: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001BB38EDB010>
+2025-11-15 16:24:48,322 [DEBUG] httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+2025-11-15 16:24:48,322 [DEBUG] httpcore.http11: send_request_headers.complete
+2025-11-15 16:24:48,323 [DEBUG] httpcore.http11: send_request_body.started request=<Request [b'POST']>
+2025-11-15 16:24:48,323 [DEBUG] httpcore.http11: send_request_body.complete
+2025-11-15 16:24:48,323 [DEBUG] httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+2025-11-15 16:24:48,607 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:49,017 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:49,420 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:49,825 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:50,181 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:50,590 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:50,995 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:51,354 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:51,769 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:52,176 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:52,533 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:52,941 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:52,962 [DEBUG] httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sat, 15 Nov 2025 22:24:52 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Content-Encoding', b'gzip'), (b'anthropic-ratelimit-input-tokens-limit', b'50000'), (b'anthropic-ratelimit-input-tokens-remaining', b'50000'), (b'anthropic-ratelimit-input-tokens-reset', b'2025-11-15T22:24:48Z'), (b'anthropic-ratelimit-output-tokens-limit', b'10000'), (b'anthropic-ratelimit-output-tokens-remaining', b'10000'), (b'anthropic-ratelimit-output-tokens-reset', b'2025-11-15T22:24:53Z'), (b'anthropic-ratelimit-requests-limit', b'50'), (b'anthropic-ratelimit-requests-remaining', b'49'), (b'anthropic-ratelimit-requests-reset', b'2025-11-15T22:24:49Z'), (b'retry-after', b'13'), (b'anthropic-ratelimit-tokens-limit', b'60000'), (b'anthropic-ratelimit-tokens-remaining', b'60000'), (b'anthropic-ratelimit-tokens-reset', b'2025-11-15T22:24:48Z'), (b'request-id', b'req_011CVATayEmNLPQ4DK2eMXRo'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'anthropic-organization-id', b'c8b37708-838d-4762-ab47-01c1010e7ee5'), (b'x-envoy-upstream-service-time', b'4320'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Robots-Tag', b'none'), (b'Server', b'cloudflare'), (b'CF-RAY', b'99f2292bda752cbe-DFW')])
+2025-11-15 16:24:52,964 [INFO] httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-11-15 16:24:52,965 [DEBUG] httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+2025-11-15 16:24:52,966 [DEBUG] httpcore.http11: receive_response_body.complete
+2025-11-15 16:24:52,967 [DEBUG] httpcore.http11: response_closed.started
+2025-11-15 16:24:52,967 [DEBUG] httpcore.http11: response_closed.complete
+2025-11-15 16:24:52,968 [DEBUG] anthropic._base_client: HTTP Response: POST https://api.anthropic.com/v1/messages "200 OK" Headers({'date': 'Sat, 15 Nov 2025 22:24:52 GMT', 'content-type': 'application/json', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'content-encoding': 'gzip', 'anthropic-ratelimit-input-tokens-limit': '50000', 'anthropic-ratelimit-input-tokens-remaining': '50000', 'anthropic-ratelimit-input-tokens-reset': '2025-11-15T22:24:48Z', 'anthropic-ratelimit-output-tokens-limit': '10000', 'anthropic-ratelimit-output-tokens-remaining': '10000', 'anthropic-ratelimit-output-tokens-reset': '2025-11-15T22:24:53Z', 'anthropic-ratelimit-requests-limit': '50', 'anthropic-ratelimit-requests-remaining': '49', 'anthropic-ratelimit-requests-reset': '2025-11-15T22:24:49Z', 'retry-after': '13', 'anthropic-ratelimit-tokens-limit': '60000', 'anthropic-ratelimit-tokens-remaining': '60000', 'anthropic-ratelimit-tokens-reset': '2025-11-15T22:24:48Z', 'request-id': 'req_011CVATayEmNLPQ4DK2eMXRo', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'anthropic-organization-id': 'c8b37708-838d-4762-ab47-01c1010e7ee5', 'x-envoy-upstream-service-time': '4320', 'cf-cache-status': 'DYNAMIC', 'x-robots-tag': 'none', 'server': 'cloudflare', 'cf-ray': '99f2292bda752cbe-DFW'})
+2025-11-15 16:24:52,969 [DEBUG] anthropic._base_client: request_id: req_011CVATayEmNLPQ4DK2eMXRo
+2025-11-15 16:24:52,971 [DEBUG] backend: LLM response:
+To sort tasks by risk level, I'll assess each task's potential complexity and potential impact:
+
+High Risk Tasks:
+1. Authentication Microservice Refinement
+   - High priority
+   - Critical backend infrastructure
+   - Potential security implications
+
+2. Payment Gateway Integration
+   - High priority
+   - Complex integration challenges
+   - Direct financial system involvement
+
+Medium Risk Tasks:
+1. Prepare Version 2.1 Release
+   - Medium priority
+   - Involves packaging and deployment
+   - Moderate complexity
+
+Low Risk Tasks:
+1. Bug Triage and Prioritization
+   - Medium priority
+   - Relatively low effort
+   - Maintenance-focused task
+
+The sorting is based on potential system impact, complexity of implementation, and priority level. Authentication and payment tasks are inherently high-risk due to their critical nature and potential for significant system disruption if not implemented correctly.
+2025-11-15 16:24:52,971 [DEBUG] backend: === LLM CALL END ===
+2025-11-15 16:24:52,975 [DEBUG] httpcore.connection: close.started
+2025-11-15 16:24:52,977 [DEBUG] httpcore.connection: close.complete
+2025-11-15 16:24:52,978 [DEBUG] httpcore.connection: close.started
+2025-11-15 16:24:52,979 [DEBUG] httpcore.connection: close.complete
+2025-11-15 16:24:53,345 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:53,753 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:54,109 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:54,522 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:54,926 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:55,280 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:55,689 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:56,096 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:56,453 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:56,866 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:57,271 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:57,676 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:58,031 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:58,440 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:58,846 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:59,202 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:24:59,613 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:00,015 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:00,420 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:00,830 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:01,186 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:01,596 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:02,000 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:02,403 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:02,759 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:03,168 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:03,574 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:03,980 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:04,334 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:04,743 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:05,149 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:05,507 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:05,915 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:06,320 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:06,728 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:07,132 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:07,512 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:07,931 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:08,289 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:08,702 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:09,117 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:09,474 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:09,887 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:10,293 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:10,651 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:11,062 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:11,470 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:11,836 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:12,245 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:12,654 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:13,014 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:13,427 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:13,833 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:14,189 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:14,599 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:15,009 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:15,126 [DEBUG] backend: Fetching last meeting: 1
+2025-11-15 16:25:15,128 [INFO] backend: Chat request received
+2025-11-15 16:25:15,128 [DEBUG] backend: User message: Rewrite the meeting summary as a professional email to stakeholders.
+2025-11-15 16:25:15,129 [DEBUG] backend: Meeting summary loaded:
+Sprint 14 review meeting covered progress on authentication microservice, payment gateway integration challenges, and upcoming version 2.1 release. The team discussed current development status, open bugs, and prioritization of tasks.
+2025-11-15 16:25:15,129 [DEBUG] backend: Tasks loaded:
+[
+  {
+    "title": "Authentication Microservice Refinement",
+    "description": "Complete development and testing of authentication microservice based on current sprint review status",
+    "priority": "high",
+    "effort": 5,
+    "status": "todo",
+    "tags": [
+      "microservice",
+      "authentication",
+      "backend"
+    ]
+  },
+  {
+    "title": "Payment Gateway Integration",
+    "description": "Address and resolve integration challenges with current payment gateway implementation",
+    "priority": "high",
+    "effort": 4,
+    "status": "todo",
+    "tags": [
+      "payment",
+      "integration",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Prepare Version 2.1 Release",
+    "description": "Plan and package artifacts for upcoming version 2.1 software release",
+    "priority": "medium",
+    "effort": 3,
+    "status": "todo",
+    "tags": [
+      "release",
+      "deployment",
+      "versioning"
+    ]
+  },
+  {
+    "title": "Bug Triage and Prioritization",
+    "description": "Review and categorize open bugs identified in sprint review, create detailed tickets",
+    "priority": "medium",
+    "effort": 2,
+    "status": "todo",
+    "tags": [
+      "bugfix",
+      "qa",
+      "maintenance"
+    ]
+  }
+]
+2025-11-15 16:25:15,159 [DEBUG] backend: === LLM CALL START ===
+2025-11-15 16:25:15,159 [DEBUG] backend: System prompt:
+
+        You are an AI assistant helping with software project management and sprint planning. 
+        Answer concisely and clearly.
+        Here is the summary of the last meeting:
+        Sprint 14 review meeting covered progress on authentication microservice, payment gateway integration challenges, and upcoming version 2.1 release. The team discussed current development status, open bugs, and prioritization of tasks.
+        Here are the tasks extracted from that meeting as JSON:
+        [
+  {
+    "title": "Authentication Microservice Refinement",
+    "description": "Complete development and testing of authentication microservice based on current sprint review status",
+    "priority": "high",
+    "effort": 5,
+    "status": "todo",
+    "tags": [
+      "microservice",
+      "authentication",
+      "backend"
+    ]
+  },
+  {
+    "title": "Payment Gateway Integration",
+    "description": "Address and resolve integration challenges with current payment gateway implementation",
+    "priority": "high",
+    "effort": 4,
+    "status": "todo",
+    "tags": [
+      "payment",
+      "integration",
+      "infrastructure"
+    ]
+  },
+  {
+    "title": "Prepare Version 2.1 Release",
+    "description": "Plan and package artifacts for upcoming version 2.1 software release",
+    "priority": "medium",
+    "effort": 3,
+    "status": "todo",
+    "tags": [
+      "release",
+      "deployment",
+      "versioning"
+    ]
+  },
+  {
+    "title": "Bug Triage and Prioritization",
+    "description": "Review and categorize open bugs identified in sprint review, create detailed tickets",
+    "priority": "medium",
+    "effort": 2,
+    "status": "todo",
+    "tags": [
+      "bugfix",
+      "qa",
+      "maintenance"
+    ]
+  }
+]
+        Use ONLY this information to answer the user's question.
+        If the user asks about tasks or priorities, use this task list.
+        If the user asks about decisions or context, use the meeting summary.
+        Do not ask for tasks again unless the user says they changed.
+    
+2025-11-15 16:25:15,160 [DEBUG] backend: User prompt:
+Rewrite the meeting summary as a professional email to stakeholders.
+2025-11-15 16:25:15,162 [DEBUG] anthropic._base_client: Request options: {'method': 'post', 'url': '/v1/messages', 'headers': {'anthropic-beta': 'messages-2023-12-15'}, 'timeout': Timeout(connect=5.0, read=600, write=600, pool=600), 'files': None, 'idempotency_key': 'stainless-python-retry-ef44d3c5-e018-4d9a-9002-ea02e00eafb1', 'json_data': {'max_tokens': 1500, 'messages': [{'role': 'user', 'content': 'Rewrite the meeting summary as a professional email to stakeholders.'}], 'model': 'claude-3-5-haiku-20241022', 'system': '\n        You are an AI assistant helping with software project management and sprint planning. \n        Answer concisely and clearly.\n        Here is the summary of the last meeting:\n        Sprint 14 review meeting covered progress on authentication microservice, payment gateway integration challenges, and upcoming version 2.1 release. The team discussed current development status, open bugs, and prioritization of tasks.\n        Here are the tasks extracted from that meeting as JSON:\n        [\n  {\n    "title": "Authentication Microservice Refinement",\n    "description": "Complete development and testing of authentication microservice based on current sprint review status",\n    "priority": "high",\n    "effort": 5,\n    "status": "todo",\n    "tags": [\n      "microservice",\n      "authentication",\n      "backend"\n    ]\n  },\n  {\n    "title": "Payment Gateway Integration",\n    "description": "Address and resolve integration challenges with current payment gateway implementation",\n    "priority": "high",\n    "effort": 4,\n    "status": "todo",\n    "tags": [\n      "payment",\n      "integration",\n      "infrastructure"\n    ]\n  },\n  {\n    "title": "Prepare Version 2.1 Release",\n    "description": "Plan and package artifacts for upcoming version 2.1 software release",\n    "priority": "medium",\n    "effort": 3,\n    "status": "todo",\n    "tags": [\n      "release",\n      "deployment",\n      "versioning"\n    ]\n  },\n  {\n    "title": "Bug Triage and Prioritization",\n    "description": "Review and categorize open bugs identified in sprint review, create detailed tickets",\n    "priority": "medium",\n    "effort": 2,\n    "status": "todo",\n    "tags": [\n      "bugfix",\n      "qa",\n      "maintenance"\n    ]\n  }\n]\n        Use ONLY this information to answer the user\'s question.\n        If the user asks about tasks or priorities, use this task list.\n        If the user asks about decisions or context, use the meeting summary.\n        Do not ask for tasks again unless the user says they changed.\n    '}}
+2025-11-15 16:25:15,163 [DEBUG] anthropic._base_client: Sending HTTP Request: POST https://api.anthropic.com/v1/messages
+2025-11-15 16:25:15,164 [DEBUG] httpcore.connection: connect_tcp.started host='api.anthropic.com' port=443 local_address=None timeout=5.0 socket_options=[(65535, 8, True), (6, 17, 60), (6, 16, 5), (6, 3, 60)]
+2025-11-15 16:25:15,185 [DEBUG] httpcore.connection: connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001BB38ED9540>
+2025-11-15 16:25:15,186 [DEBUG] httpcore.connection: start_tls.started ssl_context=<ssl.SSLContext object at 0x000001BB38DB31C0> server_hostname='api.anthropic.com' timeout=5.0
+2025-11-15 16:25:15,208 [DEBUG] httpcore.connection: start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001BB38ED93C0>
+2025-11-15 16:25:15,209 [DEBUG] httpcore.http11: send_request_headers.started request=<Request [b'POST']>
+2025-11-15 16:25:15,210 [DEBUG] httpcore.http11: send_request_headers.complete
+2025-11-15 16:25:15,210 [DEBUG] httpcore.http11: send_request_body.started request=<Request [b'POST']>
+2025-11-15 16:25:15,211 [DEBUG] httpcore.http11: send_request_body.complete
+2025-11-15 16:25:15,211 [DEBUG] httpcore.http11: receive_response_headers.started request=<Request [b'POST']>
+2025-11-15 16:25:15,416 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:15,774 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:16,182 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:16,588 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:16,943 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:17,356 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:17,763 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:18,120 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:18,528 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:18,935 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:19,345 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:19,711 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:20,121 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:20,526 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:20,613 [DEBUG] httpcore.http11: receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sat, 15 Nov 2025 22:25:20 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'Content-Encoding', b'gzip'), (b'anthropic-ratelimit-input-tokens-limit', b'50000'), (b'anthropic-ratelimit-input-tokens-remaining', b'50000'), (b'anthropic-ratelimit-input-tokens-reset', b'2025-11-15T22:25:15Z'), (b'anthropic-ratelimit-output-tokens-limit', b'10000'), (b'anthropic-ratelimit-output-tokens-remaining', b'10000'), (b'anthropic-ratelimit-output-tokens-reset', b'2025-11-15T22:25:21Z'), (b'anthropic-ratelimit-requests-limit', b'50'), (b'anthropic-ratelimit-requests-remaining', b'49'), (b'anthropic-ratelimit-requests-reset', b'2025-11-15T22:25:16Z'), (b'retry-after', b'46'), (b'anthropic-ratelimit-tokens-limit', b'60000'), (b'anthropic-ratelimit-tokens-remaining', b'60000'), (b'anthropic-ratelimit-tokens-reset', b'2025-11-15T22:25:15Z'), (b'request-id', b'req_011CVATcx96CecreAEmKh2kg'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'anthropic-organization-id', b'c8b37708-838d-4762-ab47-01c1010e7ee5'), (b'x-envoy-upstream-service-time', b'5283'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Robots-Tag', b'none'), (b'Server', b'cloudflare'), (b'CF-RAY', b'99f229d3deb76bea-DFW')])
+2025-11-15 16:25:20,614 [INFO] httpx: HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-11-15 16:25:20,614 [DEBUG] httpcore.http11: receive_response_body.started request=<Request [b'POST']>
+2025-11-15 16:25:20,615 [DEBUG] httpcore.http11: receive_response_body.complete
+2025-11-15 16:25:20,615 [DEBUG] httpcore.http11: response_closed.started
+2025-11-15 16:25:20,615 [DEBUG] httpcore.http11: response_closed.complete
+2025-11-15 16:25:20,615 [DEBUG] anthropic._base_client: HTTP Response: POST https://api.anthropic.com/v1/messages "200 OK" Headers({'date': 'Sat, 15 Nov 2025 22:25:20 GMT', 'content-type': 'application/json', 'transfer-encoding': 'chunked', 'connection': 'keep-alive', 'content-encoding': 'gzip', 'anthropic-ratelimit-input-tokens-limit': '50000', 'anthropic-ratelimit-input-tokens-remaining': '50000', 'anthropic-ratelimit-input-tokens-reset': '2025-11-15T22:25:15Z', 'anthropic-ratelimit-output-tokens-limit': '10000', 'anthropic-ratelimit-output-tokens-remaining': '10000', 'anthropic-ratelimit-output-tokens-reset': '2025-11-15T22:25:21Z', 'anthropic-ratelimit-requests-limit': '50', 'anthropic-ratelimit-requests-remaining': '49', 'anthropic-ratelimit-requests-reset': '2025-11-15T22:25:16Z', 'retry-after': '46', 'anthropic-ratelimit-tokens-limit': '60000', 'anthropic-ratelimit-tokens-remaining': '60000', 'anthropic-ratelimit-tokens-reset': '2025-11-15T22:25:15Z', 'request-id': 'req_011CVATcx96CecreAEmKh2kg', 'strict-transport-security': 'max-age=31536000; includeSubDomains; preload', 'anthropic-organization-id': 'c8b37708-838d-4762-ab47-01c1010e7ee5', 'x-envoy-upstream-service-time': '5283', 'cf-cache-status': 'DYNAMIC', 'x-robots-tag': 'none', 'server': 'cloudflare', 'cf-ray': '99f229d3deb76bea-DFW'})
+2025-11-15 16:25:20,616 [DEBUG] anthropic._base_client: request_id: req_011CVATcx96CecreAEmKh2kg
+2025-11-15 16:25:20,617 [DEBUG] backend: LLM response:
+Subject: Sprint 14 Review Summary and Upcoming Release Update
+
+Dear Stakeholders,
+
+I am writing to provide an overview of our recent Sprint 14 review meeting and our ongoing project progress.
+
+During the meeting, we discussed three key focus areas:
+
+1. Authentication Microservice: We are in the final stages of development and testing, with a high-priority focus on completing the microservice implementation.
+
+2. Payment Gateway Integration: The team is actively addressing technical challenges with our current payment gateway implementation to ensure smooth and reliable transaction processing.
+
+3. Version 2.1 Release: Preparation is underway for our upcoming software release. We are currently packaging artifacts and finalizing deployment details.
+
+Additionally, we conducted a comprehensive review of our current bug inventory, which will involve detailed triage and ticket creation to maintain our software quality.
+
+Our team remains committed to delivering a robust and high-performing solution. We will continue to provide updates as we progress through these critical tasks.
+
+Best regards,
+[Your Name]
+Project Manager
+2025-11-15 16:25:20,617 [DEBUG] backend: === LLM CALL END ===
+2025-11-15 16:25:20,884 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:21,297 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:21,705 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:22,061 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:22,472 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:22,879 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:23,235 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:23,645 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:24,055 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:24,409 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:24,819 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:25,226 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:25,584 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:25,993 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:26,401 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:26,805 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:27,208 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:27,563 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:27,968 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:28,374 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:28,780 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:29,138 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:29,546 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:29,956 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:30,312 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:30,722 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:31,128 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:31,516 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:31,927 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:32,284 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:32,699 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:33,109 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:33,471 [DEBUG] watchfiles.main: 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\Henry Eraso\\Documents\\NAU\\Course_Project\\backend\\backend.log')}
+2025-11-15 16:25:33,512 [INFO] uvicorn.error: Shutting down
+2025-11-15 16:25:33,621 [INFO] uvicorn.error: Waiting for application shutdown.
+2025-11-15 16:25:33,624 [INFO] uvicorn.error: Application shutdown complete.
+2025-11-15 16:25:33,626 [INFO] uvicorn.error: Finished server process [7152]
+2025-11-15 16:25:33,710 [DEBUG] httpcore.connection: close.started
+2025-11-15 16:25:33,711 [DEBUG] httpcore.connection: close.complete
+2025-11-15 16:25:33,977 [INFO] uvicorn.error: Stopping reloader process [6716]

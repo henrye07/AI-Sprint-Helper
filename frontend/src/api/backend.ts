@@ -1,6 +1,8 @@
+import { MeetingSummary } from "./types";
+
 const BASE_URL = "http://127.0.0.1:8000"; // FastAPI server
 
-export async function summarizeMeeting(rawText: string) {
+export async function summarizeMeeting(rawText: string) : Promise<MeetingSummary> {
   const res = await fetch(`${BASE_URL}/summarize`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
@@ -9,11 +11,11 @@ export async function summarizeMeeting(rawText: string) {
   return await res.json();
 }
 
-export async function extractTasks(summary: string) {
+export async function extractTasks(meeting_id: number, summary: string) {
   const res = await fetch(`${BASE_URL}/extract`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ summary }),
+    body: JSON.stringify({ meeting_id, summary}),
   });
   return await res.json();
 }

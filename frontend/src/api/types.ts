@@ -8,6 +8,7 @@ export interface Task {
 }
 
 export interface MeetingSummary {
+  meeting_id: number;
   summary: string;
   decisions: string[];
   action_items: string[];

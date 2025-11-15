@@ -11,8 +11,8 @@ export default function MeetingInput({ onSummary, onTasks }: any) {
       const sum = await summarizeMeeting(text);
       onSummary(sum);
 
-      const tasks = await extractTasks(sum.summary);
-      onTasks(tasks.tasks);
+      const tasksResponse = await extractTasks(sum.meeting_id, sum.summary);
+      onTasks(tasksResponse.tasks);
     } finally {
       setLoading(false);
     }

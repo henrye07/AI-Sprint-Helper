@@ -1,0 +1,109 @@
+.sprint-details-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.sprint-meta {
+  color: #777;
+  font-size: 0.9rem;
+}
+
+.progress-bar {
+  height: 18px;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #eee;
+  display: flex;
+  margin-top: 10px;
+}
+
+.segment {
+  height: 100%;
+}
+
+.segment.done {
+  background: #4caf50;
+}
+
+.segment.in-progress {
+  background: #ff9800;
+}
+
+.segment.todo {
+  background: #bdbdbd;
+}
+
+.progress-legend {
+  display: flex;
+  gap: 15px;
+  margin-top: 8px;
+  font-size: 0.85rem;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.dot.done {
+  background: #4caf50;
+}
+
+.dot.in-progress {
+  background: #ff9800;
+}
+
+.dot.todo {
+  background: #bdbdbd;
+}
+
+.sprint-tasks-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 12px;
+}
+
+.sprint-task-card {
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  background: #fafafa;
+  padding: 12px;
+}
+
+.task-header-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.status-pill {
+  padding: 3px 8px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  text-transform: capitalize;
+  color: white;
+}
+
+.status-pill.todo {
+  background: #9e9e9e;
+}
+.status-pill.in_progress {
+  background: #ff9800;
+}
+.status-pill.done {
+  background: #4caf50;
+}
+
+.task-meta {
+  font-size: 0.85rem;
+  color: #555;
+  margin-top: 4px;
+}

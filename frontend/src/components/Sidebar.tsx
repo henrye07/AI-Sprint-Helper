@@ -4,7 +4,7 @@ export default function Sidebar({ current, onNavigate }: any) {
   const items = [
     { key: "new", label: "New Meeting" },
     { key: "history", label: "Meetings History" },
-    { key: "sprint", label: "Sprint Planner" },
+    { key: "sprintDetails", label: "Sprint Details" },
     { key: "chat", label: "Chatbot" }
   ];
 

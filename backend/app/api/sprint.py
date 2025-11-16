@@ -1,57 +1,107 @@
-from fastapi import APIRouter
+from fastapi import APIRouter, Depends, HTTPException
+from sqlalchemy.orm import Session
 from pydantic import BaseModel
+
+from app.db.database import get_db
+from app.db import models
+from app.core.logger import logger
 
 router = APIRouter()
 
+class SaveSprintResponse(BaseModel):
+    sprint_id: int
+    message: str
 
-class SprintTask(BaseModel):
-    title: str
-    description: str | None = None
-    priority: str = "medium"
-    effort: int = 1
-    assignee: str | None = None
-
-
-class Developer(BaseModel):
+class SprintCreate(BaseModel):
+    meeting_id: int
     name: str
-    capacity: int  # story points available
+    capacity: int
+    explanation: str | None = None
+    task_ids: list[int]
 
+@router.post("/", tags=["sprint"])
+def create_sprint(payload: SprintCreate, db: Session = Depends(get_db)):
+    logger.info(f"Creating sprint for meeting {payload.meeting_id}")
 
-class PlanSprintRequest(BaseModel):
-    tasks: list[SprintTask]
-    developers: list[Developer]
-    sprint_capacity: int
-
-
-class PlanSprintResponse(BaseModel):
-    selected_tasks: list[SprintTask]
-    capacity_used: int
-    explanation: str
-
-
-@router.post("/", response_model=PlanSprintResponse)
-def plan_sprint(payload: PlanSprintRequest):
-    sorted_tasks = sorted(
-        payload.tasks,
-        key=lambda t: {"high": 3, "medium": 2, "low": 1}.get(t.priority, 2),
-        reverse=True,
+    meeting = (
+        db.query(models.Meeting)
+        .filter(models.Meeting.id == payload.meeting_id)
+        .first()
     )
+    if not meeting:
+        raise HTTPException(status_code=404, detail="Meeting not found")
 
-    selected = []
-    capacity_left = payload.sprint_capacity
-
-    for t in sorted_tasks:
-        if t.effort <= capacity_left:
-            selected.append(t)
-            capacity_left -= t.effort
-
-    explanation = (
-        f"Selected {len(selected)} tasks based on priority and capacity "
-        f"(capacity used: {payload.sprint_capacity - capacity_left})."
+    sprint = models.Sprint(
+        meeting_id=payload.meeting_id,
+        name=payload.name,
+        capacity=payload.capacity,
+        explanation=payload.explanation,
     )
+    db.add(sprint)
+    db.commit()
+    db.refresh(sprint)
 
-    return PlanSprintResponse(
-        selected_tasks=selected,
-        capacity_used=payload.sprint_capacity - capacity_left,
-        explanation=explanation,
+    # Attach tasks to sprint
+    for task_id in payload.task_ids:
+        task = db.query(models.Task).filter(models.Task.id == task_id).first()
+        if not task:
+            logger.warning(f"Task {task_id} not found when attaching to sprint {sprint.id}")
+            continue
+        task.sprint_id = sprint.id
+
+    db.commit()
+    
+
+    logger.info(f"Sprint {sprint.id} created with {len(payload.task_ids)} tasks")
+
+    return SaveSprintResponse(message= "Sprint created", sprint_id= sprint.id)
+
+
+class TaskReturn(BaseModel):
+    id : int
+    title : str
+    description : str | None = None
+    priority :str 
+    effort : int 
+    assignee : str | None = None
+    status : str 
+    tags : list[str] | None = None
+
+class SprintDetailResponse(BaseModel):
+    id: int
+    meeting_id: int
+    name: str
+    capacity: int
+    created_at: str
+    tasks: list[TaskReturn]
+
+
+@router.get("/{sprint_id}", response_model=SprintDetailResponse)
+def get_sprint(sprint_id: int, db: Session = Depends(get_db)):
+    sprint = (
+        db.query(models.Sprint)
+        .filter(models.Sprint.id == sprint_id)
+        .first()
+    )
+    print(sprint)
+    if not sprint:
+        raise HTTPException(status_code=404, detail="Sprint not found")
+
+    return SprintDetailResponse(
+        id=sprint.id,
+        meeting_id=sprint.meeting_id,
+        name=sprint.name,
+        capacity=sprint.capacity,
+        created_at=sprint.created_at.isoformat(),
+        tasks=[
+            {
+                "id": t.id,
+                "title": t.title,
+                "priority": t.priority,
+                "effort": t.effort,
+                "status": t.status,
+                "assignee": t.assignee,
+            }
+            for t in sprint.tasks
+        ],
     )

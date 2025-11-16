@@ -1,0 +1,129 @@
+.meeting-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.meeting-card {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.meeting-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+}
+
+.meeting-header h3 {
+  margin: 0;
+}
+
+.meeting-date {
+  color: #777;
+  font-size: 0.9rem;
+}
+
+.meeting-title-clickable {
+  cursor: pointer;
+  color: #1976d2;
+}
+.meeting-title-clickable:hover {
+  text-decoration: underline;
+}
+
+.toggle-btn {
+  border: none;
+  background: none;
+  font-size: 1.4rem;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.meeting-content {
+  margin-top: 20px;
+}
+
+.summary-section {
+  background: #f8f8f8;
+  padding: 10px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+}
+
+.task-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 15px;
+}
+
+.task-card {
+  background: #fafafa;
+  border-radius: 6px;
+  padding: 15px;
+  border: 1px solid #e0e0e0;
+}
+
+.task-card h5 {
+  margin: 0 0 6px 0;
+}
+
+.task-info {
+  display: flex;
+  justify-content: space-between;
+  margin: 6px 0;
+}
+
+.priority {
+  padding: 3px 6px;
+  border-radius: 4px;
+  color: white;
+  font-size: 0.8rem;
+}
+
+.priority.low {
+  background: #4caf50;
+}
+.priority.medium {
+  background: #ff9800;
+}
+.priority.high {
+  background: #f44336;
+}
+
+.effort {
+  font-size: 0.8rem;
+  color: #555;
+}
+
+.status-select {
+  width: 100%;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.task-actions {
+  display: flex;
+  justify-content: space-between;
+}
+
+.edit-btn {
+  background: #2196f3;
+  color: white;
+  border: none;
+  padding: 4px 10px;
+  border-radius: 4px;
+}
+
+.delete-btn {
+  background: #e53935;
+  color: white;
+  border: none;
+  padding: 4px 10px;
+  border-radius: 4px;
+}
+
+

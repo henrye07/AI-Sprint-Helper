@@ -1,0 +1,16 @@
+.section {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.card {
+  background: white;
+  border-radius: 10px;
+  padding: 16px 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+  margin-bottom: 18px;
+}
+
+.card h3, .card h4 {
+  margin-top: 0;
+}

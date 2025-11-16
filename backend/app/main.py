@@ -9,10 +9,16 @@ Base.metadata.create_all(bind=engine)
 
 app = FastAPI(title="AI Sprint Copilot Backend")
 
+origins = [
+    "http://localhost:1420",
+    "http://127.0.0.1:1420",
+    "tauri://localhost"     # Tauri internal origin
+]
+
 # CORS for Tauri/React
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # TODO: tighten this in production
+    allow_origins=["*"], #origins,  # TODO: tighten this in production
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

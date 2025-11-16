@@ -1,5 +1,4 @@
 import { useState } from "react";
-import "./modal.css";
 
 export default function SprintCapacityModal({ onCancel , onConfirm }:any) {
   const [capacity, setCapacity] = useState(20);

@@ -1,15 +1,23 @@
-export async function safeFetch(url: string, options: any = {}) {
+export async function safeFetch(url: string, options: RequestInit = {}) {
   try {
-    const raw = await fetch(url, options);
+    const response = await fetch(url, options);
 
-    if (!raw.ok) {
-      return { error: `HTTP ${raw.status}`, data: null };
+    if (!response.ok) {
+      return {
+        error: `Request failed (${response.status})`,
+        data: null
+      };
     }
 
-    const data = await raw.json();
-    return { error: null, data };
+    return {
+      error: null,
+      data: await response.json()
+    };
 
-  } catch (e: any) {
-    return { error: e.message, data: null };
+  } catch (err: any) {
+    return {
+      error: err.message ?? "Unknown network error",
+      data: null
+    };
   }
 }

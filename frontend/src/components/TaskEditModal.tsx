@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import "./modal.css";
 
 export default function TaskEditModal({ task, onSave, onClose }: any) {
   const [title, setTitle] = useState(task?.title || "");

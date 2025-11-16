@@ -1,7 +1,14 @@
 import { Task } from "../api/types";
+import { EmptyState } from "./EmptyState";
 
 export default function TaskList({ tasks }: { tasks: Task[] }) {
-  if (!tasks || tasks.length === 0) return null;
+  if (!tasks || tasks.length === 0) return(
+  <EmptyState
+    icon="📭"
+    title="No Tasks Yet"
+    message="Generate tasks using the AI summarizer."
+  />
+);
 
   return (
     <div className="card">

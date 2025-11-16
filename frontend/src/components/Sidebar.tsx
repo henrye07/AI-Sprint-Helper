@@ -1,5 +1,3 @@
-import "./sidebar.css";
-
 export default function Sidebar({ current, onNavigate }: any) {
   const items = [
     { key: "new", label: "New Meeting" },

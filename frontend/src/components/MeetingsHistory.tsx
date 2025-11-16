@@ -3,8 +3,6 @@ import TaskEditModal from "./TaskEditModal";
 import { updateTask, deleteTask, updateTaskStatus } from "../api/backend";
 import { Task } from "../api/types";
 
-import "./meetings.css";
-
 export default function MeetingsHistory({ onOpenMeeting }: any) {
   const [meetings, setMeetings] = useState([]);
   const [selectedTask, setSelectedTask] = useState< Task | null>(null);

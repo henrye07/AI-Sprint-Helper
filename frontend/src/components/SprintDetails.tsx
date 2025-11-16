@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import "./sprintDetails.css";
+import { formatStatus } from "../utils/status";
 
 export default function SprintDetails({ sprintId, onBack }: any) {
   const [sprint, setSprint] = useState<any>(null);
@@ -32,7 +32,9 @@ export default function SprintDetails({ sprintId, onBack }: any) {
 
   return (
     <div className="sprint-details-container">
-      <button className="back-btn" onClick={onBack}>← Back</button>
+      <button className="btn btn-secondary" onClick={onBack}>
+        ← Back
+        </button>
 
       <h2>{sprint.name}</h2>
       <p className="sprint-meta">
@@ -84,8 +86,8 @@ export default function SprintDetails({ sprintId, onBack }: any) {
               <div className="task-header-line">
                 <h4>{t.title}</h4>
                 <span className={`status-pill ${t.status}`}>
-                  {t.status.replace("_", " ")}
-                </span>
+  {formatStatus(t.status)}
+</span>
               </div>
               <p className="task-meta">
                 Priority: <strong>{t.priority}</strong> · Effort:{" "}

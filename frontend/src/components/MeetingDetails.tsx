@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import TaskEditModal from "./TaskEditModal";
 import { updateTask, deleteTask, updateTaskStatus } from "../api/backend";
-import "./meetingDetails.css";
 import { SprintModel, SprintPlan, Task } from "../api/types";
 import SprintCapacityModal from "./SprintCapacityModal";
 
@@ -79,9 +78,9 @@ export default function MeetingDetails({
 
   return (
     <div className="details-container">
-      <button className="back-btn" onClick={onBack}>
+      <button className="btn btn-secondary" onClick={onBack}>
         ← Back
-      </button>
+        </button>
 
       <h2>Meeting #{meeting.id}</h2>
       <p className="meeting-date">Date: {meeting.created_at}</p>

@@ -1,0 +1,29 @@
+backend/.venv
+backend/.env
+backend/uv.lock
+backend/backend.log
+backend/data.db
+# Logs
+frontend/ogs
+frontend/*.log
+frontend/pm-debug.log*
+frontend/arn-debug.log*
+frontend/arn-error.log*
+frontend/npm-debug.log*
+frontend/erna-debug.log*
+
+frontend/ode_modules
+frontend/ist
+frontend/ist-ssr
+frontend/*.local
+
+# Editor directories and files
+frontend/.vscode/*
+!.vscode/extensions.json
+frontend/.idea
+frontend/.DS_Store
+frontend/*.suo
+frontend/*.ntvs*
+frontend/*.njsproj
+frontend/*.sln
+frontend/*.sw?

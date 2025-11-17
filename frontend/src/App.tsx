@@ -56,6 +56,7 @@ function App() {
               meetingId={selectedMeetingId}
               onBack={() => setPage("history")}
               onOpenSprint={openSprintDetails}
+              showToast={showToast}
             />
           )}
           {page === "sprintDetails" && selectedSprintId !== null && (

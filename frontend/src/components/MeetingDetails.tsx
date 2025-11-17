@@ -3,11 +3,13 @@ import TaskEditModal from "./TaskEditModal";
 import { updateTask, deleteTask, updateTaskStatus } from "../api/backend";
 import { SprintModel, SprintPlan, Task } from "../api/types";
 import SprintCapacityModal from "./SprintCapacityModal";
+import AddTaskModal from "./AddTaskModel";
 
 export default function MeetingDetails({
   meetingId,
   onBack,
   onOpenSprint,
+  showToast,
 }: any) {
   const [meeting, setMeeting] = useState<any>(null);
   const [selectedTask, setSelectedTask] = useState<Task | null>(null);
@@ -15,6 +17,7 @@ export default function MeetingDetails({
   const [savingSprint, setSavingSprint] = useState(false);
   const [aiResult, setAiResult] = useState<SprintPlan | null>(null);
   const [sprints, setSprints] = useState<SprintModel[]>([]);
+  const [showAddTaskModal, setShowAddTaskModal] = useState(false);
 
   async function loadMeeting() {
     const res = await fetch(`http://127.0.0.1:8000/meetings/${meetingId}`);
@@ -69,6 +72,21 @@ export default function MeetingDetails({
     setSprints(data);
   }
 
+  async function saveNewTask(taskData: Task) {
+  const res = await fetch("http://127.0.0.1:8000/tasks", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(taskData),
+  });
+
+  const data = await res.json();
+
+  showToast("Task created!");
+
+  setShowAddTaskModal(false);
+  loadMeeting(); // refresh task list
+}
+
   useEffect(() => {
     loadMeeting();
     loadSprints();
@@ -113,7 +131,22 @@ export default function MeetingDetails({
       )}
 
       <section className="section card">
-        <h3>Tasks ({meeting.tasks.length})</h3>
+        <div className="tasks-header">
+          <h3>Tasks ({meeting.tasks.length})</h3>
+          <button
+            className="btn btn-primary"
+            onClick={() => setShowAddTaskModal(true)}
+          >
+            + Add Task
+          </button>
+        </div>
+        {showAddTaskModal && (
+          <AddTaskModal
+            meetingId={meetingId}
+            onCancel={() => setShowAddTaskModal(false)}
+            onSave={saveNewTask}
+          />
+        )}
 
         <div className="task-grid">
           {meeting.tasks.map((t: any) => (

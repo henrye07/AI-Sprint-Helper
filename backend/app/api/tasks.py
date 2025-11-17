@@ -24,6 +24,17 @@ class TaskUpdate(BaseModel):
 class TaskStatusUpdate(BaseModel):
     status: str
 
+class CreateTaskRequest(BaseModel):
+    meeting_id: int
+    title: str
+    description: str | None = None
+    priority: str = "medium"
+    effort: int = 1
+    assignee: str | None = None
+
+class CreateTaskResponse(BaseModel):
+    id: int
+    message: str
 
 # -----------------------------
 # CRUD Endpoints
@@ -119,3 +130,22 @@ def update_task_status(task_id: int, payload: TaskStatusUpdate, db: Session = De
     db.refresh(task)
 
     return {"message": "Status updated", "task_id": task_id, "status": payload.status}
+
+@router.post("/", response_model=CreateTaskResponse)
+def create_task(payload: CreateTaskRequest, db: Session = Depends(get_db)):
+    task = models.Task(
+        meeting_id=payload.meeting_id,
+        title=payload.title,
+        description=payload.description,
+        priority=payload.priority,
+        effort=payload.effort,
+        assignee=payload.assignee
+    )
+    db.add(task)
+    db.commit()
+    db.refresh(task)
+
+    return CreateTaskResponse(
+        id=task.id,
+        message="Task created successfully"
+    )

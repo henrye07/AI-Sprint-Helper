@@ -54,8 +54,20 @@ Completed so far:
 
 ---
 
-## 🏗️ Architecture Overview
+## ⚙️ Environment Setup
 
+Before running the backend, **you must create a `.env` file** in the project root(backend):
+ANTHROPIC_API_KEY=your_api_key_here
+
+The `ANTHROPIC_API_KEY` is required for all LLM-driven features (summaries, tasks, chatbot, documentation).
+
+Make sure not to commit `.env` files to GitHub.  
+The project includes `.gitignore` rules for this purpose.
+
+---
+
+## 🏗️ Architecture Overview
+```
 /backend
 ├── api/ # Conversational interface, Meeting summarization, Documentation assistant
 │
@@ -70,7 +82,7 @@ Completed so far:
 ├── pages/
 ├── services/
 └── ...
-
+```
 ## 🛠️ Tech Stack
 
 ### **Backend**
